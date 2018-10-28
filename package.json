@@ -1,0 +1,15 @@
+{
+    "name": "json2pojo",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "Sven Helmberger",
+    "license": "MIT",
+    "bin": {
+        "json2pojo": "./index.js"
+    },
+    "dependencies": {
+        "chalk": "^2.4.1",
+        "minimist": "^1.2.0"
+    }
+}
+
